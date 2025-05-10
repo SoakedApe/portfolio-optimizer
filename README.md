@@ -1,5 +1,9 @@
 # portfolio-optimizer
 
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)
+
 Portfolio construction toolkit: Markowitz mean-variance optimisation versus a Calmar-optimised grid search. Applied to 10 systematic trading strategies.
 
 ## Methods
